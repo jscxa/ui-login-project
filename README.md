@@ -10,5 +10,5 @@ The project focuses on layout, typography and visual consistency.
 
 ## Author
 Julia Makarewicz
-[![Uploading image.png…]()](https://www.figma.com/design/7Nf5zpmO1GXEHcTnyQrY0R/Untitled?node-id=0-1&t=EtJujRfCpMxOVXzY-1)
+https://www.figma.com/design/7Nf5zpmO1GXEHcTnyQrY0R/Untitled?node-id=0-1&p=f&t=RQiKaVqyV4V9mFQm-0
 
